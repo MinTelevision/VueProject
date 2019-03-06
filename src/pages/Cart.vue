@@ -161,7 +161,7 @@ export default {
         var now = new Date();
         now.setDate(now.getDate() + 7);
         Cookie.set("jiaqian", this.priceAll2, { expires: now });
-        location.href = "/#/buy";
+        location.hash = "/buy";
       }
 
       //好像用不了VUEX 哈哈 那我用别的好了
@@ -183,7 +183,7 @@ export default {
     },
     //更改数据未做  只改了样式
     jia(num, index, guid) {
-      location.reload();
+      window.location.reload();
       num = ++this.ordercar[index].num;
       $.ajax({
         type: "get",
@@ -196,7 +196,7 @@ export default {
       });
     },
     jian(num, index, guid) {
-      location.reload();
+      window.location.reload();
       if (this.ordercar[index].num >= 2) {
         num = --this.ordercar[index].num;
         $.ajax({
@@ -311,7 +311,7 @@ export default {
       setTimeout(() => {
         instance.close();
       }, 1500);
-      location.reload();
+      window.location.reload();
       this.$.ajax({
         type: "get",
         url: ServerUrl + "/goodlist/delete",

@@ -1,2 +1,2 @@
-let ServerUrl = 'http://10.3.143.248:3000';
+let ServerUrl = 'http://39.106.9.49:3000';
 export {ServerUrl}

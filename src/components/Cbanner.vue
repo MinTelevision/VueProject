@@ -115,7 +115,7 @@ export default {
       this.stop();
       this.startPointX = e.changedTouches[0].pageX;
       this.box = document.querySelectorAll(".box");
-      this.boxWidth = this.box[0].offsetWidth;
+      // this.boxWidth = this.box[0].offsetWidth;
     },
     touchmove(e) {
       if (this.startPointX == this.changePointX) {
@@ -160,11 +160,11 @@ export default {
       banner: [
         {
           imgurl:
-            "//asset.ibanquan.com/asset/5bc963ef53f4e32535000064/index_slide_1?v=1539924975"
+            "http://asset.ibanquan.com/asset/5bc963ef53f4e32535000064/index_slide_1?v=1539924975"
         },
         {
           imgurl:
-            "//asset.ibanquan.com/asset/5bc962bd26a801265b000040/index_slide_3?v=1539924669"
+            "http://asset.ibanquan.com/asset/5bc962bd26a801265b000040/index_slide_3?v=1539924669"
         },
         
         

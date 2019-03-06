@@ -8796,7 +8796,7 @@
      vertical-align: middle;
      overflow: hidden;
      position: relative;
-     background-image: url('//asset.ibanquan.com/middle/47707/c/299/581a383b06898777aa00187d/main?v=1478113339');
+     background-image: url('http://asset.ibanquan.com/middle/47707/c/299/581a383b06898777aa00187d/main?v=1478113339');
  }
 
  .main-ico-cart {
@@ -8853,7 +8853,7 @@
      position: absolute;
      left: 0;
      overflow: hidden;
-     background-image: url(//asset.ibanquan.com/middle/47707/c/299/581a383906898777aa001859/goTop?v=1478113337)
+     background-image: url(http://asset.ibanquan.com/middle/47707/c/299/581a383906898777aa001859/goTop?v=1478113337)
  }
 
  .go_top-go {
@@ -9942,7 +9942,7 @@
      display: inline-block;
      width: 19px;
      height: 18px;
-     background-image: url(//asset.ibanquan.com/middle/47707/c/299/581a383b06898777aa00187d/main?v=1478113339);
+     background-image: url(http://asset.ibanquan.com/middle/47707/c/299/581a383b06898777aa00187d/main?v=1478113339);
      background-position: -100px -70px;
      background-repeat: no-repeat;
      vertical-align: bottom;
@@ -10481,7 +10481,7 @@
  .blog_cont-music-item-disc-play {
      display: none;
      background-position: 0 -70px;
-     background-image: url('//asset.ibanquan.com/middle/47707/c/299/581a383b06898777aa00187d/main?v=1478113339');
+     background-image: url('http://asset.ibanquan.com/middle/47707/c/299/581a383b06898777aa00187d/main?v=1478113339');
      background-repeat: no-repeat;
      width: 100px;
      height: 100px;
@@ -10543,7 +10543,7 @@
      line-height: 18px;
      margin-top: 3px;
      float: left;
-     background-image: url('//asset.ibanquan.com/middle/47707/c/299/581a383b06898777aa00187d/main?v=1478113339');
+     background-image: url('http://asset.ibanquan.com/middle/47707/c/299/581a383b06898777aa00187d/main?v=1478113339');
      background-position: -100px -70px;
      background-repeat: no-repeat
  }
@@ -10987,7 +10987,7 @@
      height: 26px;
      width: 26px;
      margin: 0 2px;
-     background-image: url('//asset.ibanquan.com/middle/47707/c/299/581a383906898777aa001853/blog_social?v=1478113337');
+     background-image: url('http://asset.ibanquan.com/middle/47707/c/299/581a383906898777aa001853/blog_social?v=1478113337');
      background-repeat: no-repeat;
      font-size: 0
  }
@@ -12140,7 +12140,7 @@
      height: 67px;
      margin: 0;
      padding-right: 60px;
-     background: url('//asset.ibanquan.com/asset/5a32190722bd3406c000226f/footer_have_none?design_theme_id=0&v=1513232647') no-repeat right center;
+     background: url('http://asset.ibanquan.com/asset/5a32190722bd3406c000226f/footer_have_none?design_theme_id=0&v=1513232647') no-repeat right center;
      background-size: 100px;
      text-align: right;
      line-height: 60px;
@@ -12219,35 +12219,35 @@
  }
 
  .mobile-footernav .footernav-index {
-     background-image: url('//asset.ibanquan.com/asset/5a32190422bd3406c000224a/mobi_menu_icon1?design_theme_id=0&v=1513232644');
+     background-image: url('http://asset.ibanquan.com/asset/5a32190422bd3406c000224a/mobi_menu_icon1?design_theme_id=0&v=1513232644');
  }
 
  .mobile-footernav .footernav-class {
-     background-image: url('//asset.ibanquan.com/asset/5a32190322bd3406c0002244/mobi_menu_icon2?design_theme_id=0&v=1513232643');
+     background-image: url('http://asset.ibanquan.com/asset/5a32190322bd3406c0002244/mobi_menu_icon2?design_theme_id=0&v=1513232643');
  }
 
  .mobile-footernav .footernav-cart {
-     background-image: url('//asset.ibanquan.com/asset/5a32190322bd3406c000223e/mobi_menu_icon3?design_theme_id=0&v=1513232643');
+     background-image: url('http://asset.ibanquan.com/asset/5a32190322bd3406c000223e/mobi_menu_icon3?design_theme_id=0&v=1513232643');
  }
 
  .mobile-footernav .footernav-account {
-     background-image: url('//asset.ibanquan.com/asset/5a32190222bd3406c0002238/mobi_menu_icon4?design_theme_id=0&v=1513232643');
+     background-image: url('http://asset.ibanquan.com/asset/5a32190222bd3406c0002238/mobi_menu_icon4?design_theme_id=0&v=1513232643');
  }
 
  .mobile-footernav .footernav-index.active {
-     background-image: url('//asset.ibanquan.com/asset/5a32190422bd3406c0002247/mobi_menu_icon1_active?design_theme_id=0&v=1513232644');
+     background-image: url('http://asset.ibanquan.com/asset/5a32190422bd3406c0002247/mobi_menu_icon1_active?design_theme_id=0&v=1513232644');
  }
 
  .mobile-footernav .footernav-class.active {
-     background-image: url('//asset.ibanquan.com/asset/5a32190322bd3406c0002241/mobi_menu_icon2_active?design_theme_id=0&v=1513232643');
+     background-image: url('http://asset.ibanquan.com/asset/5a32190322bd3406c0002241/mobi_menu_icon2_active?design_theme_id=0&v=1513232643');
  }
 
  .mobile-footernav .footernav-cart.active {
-     background-image: url('//asset.ibanquan.com/asset/5a32190322bd3406c000223b/mobi_menu_icon3_active?design_theme_id=0&v=1513232643');
+     background-image: url('http://asset.ibanquan.com/asset/5a32190322bd3406c000223b/mobi_menu_icon3_active?design_theme_id=0&v=1513232643');
  }
 
  .mobile-footernav .footernav-account.active {
-     background-image: url('//asset.ibanquan.com/asset/5a32190222bd3406c0002235/mobi_menu_icon4_active?design_theme_id=0&v=1513232642');
+     background-image: url('http://asset.ibanquan.com/asset/5a32190222bd3406c0002235/mobi_menu_icon4_active?design_theme_id=0&v=1513232642');
  }
 
  .payment-choose-bank-btn, .add-address, .cart-balance {

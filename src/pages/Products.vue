@@ -143,7 +143,7 @@ export default {
     },
     savessg(guid) {
       sessionStorage.setItem("key", JSON.stringify(this.list[guid - 1]));
-      location.href = "/#/detail";
+      location.hash = "/detail";
     }
   },
   async created() {

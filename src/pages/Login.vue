@@ -59,7 +59,7 @@
       </div>
       <div class="login-out-sub-txt">
         <span class="login-out-sub-txt-l">
-          <a href="/account/forget_password">忘记密码？</a>
+          <a href="javascript:;">忘记密码？</a>
         </span>
         <span class="login-out-sub-txt-r">
           <router-link to="/app/register" href="javascript:;">立即注册</router-link>
@@ -108,7 +108,10 @@ export default {
               var now = new Date();
               now.setDate(now.getDate() + 7);
               Cookie.set("name", this. user, { expires: now }); 
-              location.href = "/";
+              
+              location.hash="/";
+              window.location.reload();
+              
             } else {
               this.xianshi = true;
               this.details = "请输入正确密码";

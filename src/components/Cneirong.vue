@@ -3,7 +3,7 @@
     <div class id="page-search-pro">
       <div class="page-search-banner border_top_f2">
         <a href="javascript:;" title="Charlotte">
-          <img src="//asset.ibanquan.com/image/5a38e429b1b9575cd9000319/s.jpeg?v=1513677865">
+          <img src="http://asset.ibanquan.com/image/5a38e429b1b9575cd9000319/s.jpeg?v=1513677865">
         </a>
       </div>
       <ul
@@ -17,7 +17,7 @@
               <li class="page-search-item item">
                 <a href="javascript:;">
                   <div class="image">
-                    <img src="//asset.ibanquan.com/image/585b87890dd76c565a000687/s_157x157.jpeg">
+                    <img src="http://asset.ibanquan.com/image/585b87890dd76c565a000687/s_157x157.jpeg">
                   </div>
                   <p>美式红丝绒
                     <br>
@@ -30,7 +30,7 @@
               <li class="page-search-item item">
                 <a href="javascript:;">
                   <div class="image">
-                    <img src="//asset.ibanquan.com/image/5bcaa5f1180e16249700034b/s_157x157.jpeg">
+                    <img src="http://asset.ibanquan.com/image/5bcaa5f1180e16249700034b/s_157x157.jpeg">
                   </div>
                   <p>夏午茶
                     <br>
@@ -43,7 +43,7 @@
               <li class="page-search-item item">
                 <a href="javascript:;">
                   <div class="image">
-                    <img src="//asset.ibanquan.com/image/5a38dfac06ce8b47bf000365/s_157x157.jpeg">
+                    <img src="http://asset.ibanquan.com/image/5a38dfac06ce8b47bf000365/s_157x157.jpeg">
                   </div>
                   <p>夏洛特开心
                     <br>
@@ -56,7 +56,7 @@
               <li class="page-search-item item">
                 <a href="javascript:;">
                   <div class="image">
-                    <img src="//asset.ibanquan.com/image/5a8312b6b1b95758ae0001d9/s_157x157.jpeg">
+                    <img src="http://asset.ibanquan.com/image/5a8312b6b1b95758ae0001d9/s_157x157.jpeg">
                   </div>
                   <p>至爱
                     <br>
@@ -69,7 +69,7 @@
               <li class="page-search-item item">
                 <a href="javascript:;">
                   <div class="image">
-                    <img src="//asset.ibanquan.com/image/5b7590244194e570a300016f/s_157x157.png">
+                    <img src="http://asset.ibanquan.com/image/5b7590244194e570a300016f/s_157x157.png">
                   </div>
                   <p>桃园
                     <br>
@@ -83,7 +83,7 @@
                 <a href="javascript:;">
                   <div class="image">
                     <img
-                      src="//asset.ibanquan.com/image/550920f2aaba8c03a50000af/s.jpg?v=1484250230_157x157.png"
+                      src="http://asset.ibanquan.com/image/550920f2aaba8c03a50000af/s.jpg?v=1484250230_157x157.png"
                     >
                   </div>
                   <p>清柠抹茶
@@ -97,7 +97,7 @@
               <li class="page-search-item item">
                 <a href="javascript:;">
                   <div class="image">
-                    <img src="//asset.ibanquan.com/image/5860dbd5b1b957533800134c/s_157x157.jpeg">
+                    <img src="http://asset.ibanquan.com/image/5860dbd5b1b957533800134c/s_157x157.jpeg">
                   </div>
                   <p>纽约
                     <br>
@@ -110,7 +110,7 @@
               <li class="page-search-item item">
                 <a href="javascript:;">
                   <div class="image">
-                    <img src="//asset.ibanquan.com/image/585b9a4a3f8f904f2a000830/s_157x157.jpeg">
+                    <img src="http://asset.ibanquan.com/image/585b9a4a3f8f904f2a000830/s_157x157.jpeg">
                   </div>
                   <p>草莓季节
                     <br>
@@ -134,7 +134,7 @@
       </ul>
       <div class="page-search-banner border_top_f2">
         <a href="javascript:;">
-          <img src="//asset.ibanquan.com/image/5a38da3c0dd76c175d0002dc/s.jpeg?v=1513675325">
+          <img src="http://asset.ibanquan.com/image/5a38da3c0dd76c175d0002dc/s.jpeg?v=1513675325">
         </a>
       </div>
       <ul
@@ -151,7 +151,7 @@
               <li class="page-search-item item">
                 <a href="javascript:;">
                   <div class="image">
-                    <img src="//asset.ibanquan.com/image/5b34e58853f4e35e9d000099/s_157x157.jpeg">
+                    <img src="http://asset.ibanquan.com/image/5b34e58853f4e35e9d000099/s_157x157.jpeg">
                   </div>
                   <p>茶园山 FIFA
                     <br>
@@ -165,7 +165,7 @@
                 <a href="javascript:;">
                   <div class="image">
                     <img
-                      src="//asset.ibanquan.com/image/55091cf24812f203ad000010/s.jpg?v=1484250230_157x157.png"
+                      src="http://asset.ibanquan.com/image/55091cf24812f203ad000010/s.jpg?v=1484250230_157x157.png"
                     >
                   </div>
                   <p>挪威森林
@@ -179,7 +179,7 @@
               <li class="page-search-item item">
                 <a href="javascript:;">
                   <div class="image">
-                    <img src="//asset.ibanquan.com/image/5860d7730dd76c5656001061/s_157x157.jpeg">
+                    <img src="http://asset.ibanquan.com/image/5860d7730dd76c5656001061/s_157x157.jpeg">
                   </div>
                   <p>全新提拉米苏
                     <br>
@@ -192,7 +192,7 @@
               <li class="page-search-item item">
                 <a href="javascript:;">
                   <div class="image">
-                    <img src="//asset.ibanquan.com/image/5860dbd5b1b957533800134c/s_157x157.jpeg">
+                    <img src="http://asset.ibanquan.com/image/5860dbd5b1b957533800134c/s_157x157.jpeg">
                   </div>
                   <p>纽约
                     <br>
@@ -205,7 +205,7 @@
               <li class="page-search-item item">
                 <a href="javascript:;">
                   <div class="image">
-                    <img src="//asset.ibanquan.com/image/5a38d98a06ce8b47bf000349/s_157x157.jpeg">
+                    <img src="http://asset.ibanquan.com/image/5a38d98a06ce8b47bf000349/s_157x157.jpeg">
                   </div>
                   <p>纸杯蛋糕套装
                     <br>
@@ -218,7 +218,7 @@
               <li class="page-search-item item">
                 <a href="javascript:;">
                   <div class="image">
-                    <img src="//asset.ibanquan.com/image/587aff139bedc4666500131f/s_157x157.jpeg">
+                    <img src="http://asset.ibanquan.com/image/587aff139bedc4666500131f/s_157x157.jpeg">
                   </div>
                   <p>珍爱SE
                     <br>

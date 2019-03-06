@@ -165,13 +165,13 @@ export default {
 
   methods: {
     fenlei() {
-      location.href = "/#/app/products";
+      location.hash = "/app/products";
     },
     gouwuche() {
       if (Cookie.get("name")) {
-        location.href = "/#/app/cart";
+        location.hash = "/app/cart";
       } else {
-        location.href = "/#/app/login";
+        location.hash = "/app/login";
       }
     },
     reduce() {

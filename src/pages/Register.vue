@@ -98,7 +98,7 @@ export default {
               }
             )
             .then(() => {
-              location.href = "/#/app/login";
+              location.hash = "/app/login";
              });
         } else {
           this.show = true;

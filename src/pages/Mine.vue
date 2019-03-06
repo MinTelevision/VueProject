@@ -6,7 +6,7 @@
           <a href="javascript:;" class="center-head">
             <span
               class="customer-img"
-              style="background-image:url('//asset.ibanquan.com/image/5c654ecccf0a0722df00000f/46804ba98226cffc9feef019b4014a90f403ea9f.jpg');"
+              style="background-image:url('http://asset.ibanquan.com/image/5c654ecccf0a0722df00000f/46804ba98226cffc9feef019b4014a90f403ea9f.jpg');"
             ></span>
             <span href="javascript:;" class="center-head-info">
               <p class="center-head-name" v-text="username"></p>
@@ -118,9 +118,9 @@ export default {
           spinnerType: "snake"
       });
       await Cookie.remove("name");
-      await location.reload();
+      await window.location.reload();
       await Indicator.close();
-      location.href=await "http://localhost:8080/#/app/login";
+      location.hash=await "/app/login";
     }
   }
 };
